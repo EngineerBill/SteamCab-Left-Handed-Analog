@@ -11,7 +11,7 @@ Our initial investigations into the world of Pebble programming focused on
 understanding the structure and requirements for a working Watchface app.
 After studying a number of examples and reviewing what was already out there,
 we decided to roll our own. The result was the 'SteamCab Left Handed Analog - Mark I',
-a "counterrevolutionary" approach to analog watch design...
+a "counter-revolutionary" approach to analog watch design...
 
 
 This project began life as the example "simple_analog" example watch in
